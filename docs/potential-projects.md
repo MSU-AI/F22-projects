@@ -37,8 +37,6 @@ Here are all the potential projects for Fall 2022.
 - Links:
     - https://apps.apple.com/us/app/homecourt-basketball-training/id1258520424
 
-## _Something biometric?_
-
 
 # Natural language processing (NLP)
 
@@ -72,6 +70,11 @@ Here are all the potential projects for Fall 2022.
 - Links:
     - https://chrome.google.com/webstore/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj
 
+## AI Club Discord moderator
+- Answer basic questions for the members, take attendance, etc.
+- Useful to know: Python, Database
+- Links:
+
 ## Anki card generator
 
 
@@ -99,11 +102,6 @@ Here are all the potential projects for Fall 2022.
 - Links:
     - https://anyconv.com/music-to-midi-converter
 
-## Grocery prediction for a restaurant
-- Predict the amount of groceries needed for a restaurant on a given day based on weather, holidays, etc.
-- Useful to know: Python, PyTorch / TensorFlow, Data Science
-- Links:
-
 ## AI decryption
 - Decrypt a message using a neural network
 - Useful to know: Python, PyTorch / TensorFlow, Basic cryptography
@@ -121,3 +119,9 @@ Here are all the potential projects for Fall 2022.
 - Useful to know: Python, Computer vision, Natural language processing, Mobile app development
 - Links:
     - https://play.google.com/store/apps/details?id=br.com.handtalk
+
+## Board game bot
+- Play a board game with a bot, e.g. chess, checkers, five-in-a-row, etc.
+- Useful to know: Python, PyTorch / TensorFlow, At least one board game
+- Links:
+    - https://github.com/topics/chess-bot
