@@ -44,6 +44,7 @@ Here are all the potential projects for Fall 2022.
 - Detects emotion and theme from text
 - Useful to know: Python, Hugging Face
 - Links:
+    - https://arxiv.org/pdf/1903.07766.pdf
 
 ## Story generator app (_beginner friendly_)
 - Generate stories from a prompt
@@ -75,13 +76,15 @@ Here are all the potential projects for Fall 2022.
 - Useful to know: Python, Database
 - Links:
 
-## Anki card generator
-
+## Concept map generator
+- Generates concept map from textbooks.
+- Useful to know: Python, PyTorch / Tensorflow, Markdown (Mermaid)
+- Links:
 
 # Other
 
 ## Basic prediction models (_beginner friendly_)
-- Undecided. Publish the final work as a Kaggle Notebook, a article on Towards Data Science, etc.
+- For example, stocks, weather, dating matches, etc. Publish the final work as a Kaggle Notebook, a article on Towards Data Science, etc.
 - Useful to know: Python
 
 ## Personality predictor from Spotify (_beginner friendly_)
@@ -114,7 +117,7 @@ Here are all the potential projects for Fall 2022.
 - Links:
     - https://www.sophos.com/en-us/content/deep-learning-cybersecurity
 
-## Sign language translator app
+## Sign language translator
 - Translate sign language to text
 - Useful to know: Python, Computer vision, Natural language processing, Mobile app development
 - Links:
