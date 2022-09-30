@@ -71,7 +71,7 @@ Here are all the potential projects for Fall 2022.
     - https://chrome.google.com/webstore/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj
 
 ## AI Club Discord moderator
-- Answer basic questions for the members, take attendance, etc.
+- Answer basic questions for the members, take attendance, map names & usernames, etc.
 - Useful to know: Python, Database
 - Links:
 
