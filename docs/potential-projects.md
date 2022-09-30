@@ -24,6 +24,7 @@ Here are all the potential projects for Fall 2022.
 - Detect diseases from images
 - Useful to know: Python, OpenCV, PyTorch / TensorFlow
 - Links:
+    - https://towardsai.net/p/machine-learning/disease-detection-with-machine-learning
 
 ## Smart safety camera
 - Example: detect if a baby is dangerously close to a hot stove
@@ -75,17 +76,22 @@ Here are all the potential projects for Fall 2022.
 - Answer basic questions for the members, take attendance, map names & usernames, etc.
 - Useful to know: Python, Database
 - Links:
+    - https://droplr.com/how-to/productivity-tools/top-5-discord-moderation-bots-to-keep-your-server-safe/
 
 ## Concept map generator
 - Generates concept map from textbooks.
 - Useful to know: Python, PyTorch / Tensorflow, Markdown (Mermaid)
 - Links:
+    - https://tobloef.com/text2mindmap/
 
 # Other
 
 ## Basic prediction models (_beginner friendly_)
-- For example, stocks, weather, dating matches, etc. Publish the final work as a Kaggle Notebook, a article on Towards Data Science, etc.
+- For example, stocks, weather, dating matches, etc. Publish the final work as a Kaggle Notebook, an article on Towards Data Science, etc.
 - Useful to know: Python
+- Links:
+    - https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
+    - https://www.kaggle.com/c/dmbi-18-metro
 
 ## Personality predictor from Spotify (_beginner friendly_)
 - Predict personality based on music taste.
