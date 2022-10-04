@@ -59,6 +59,7 @@ Here are all the potential projects for Fall 2022.
 - Useful to know: Python, Discord API, Sentimental Analysis
 - Links:
     - https://discordbotlist.com/bots/suicide-prevention-bot
+    - Mental illness detection research review https://www.nature.com/articles/s41746-022-00589-7#ethics
 
 ## Application tracking system
 - Build an ATS for the club to process the applications for future E-board members, projects, etc.
@@ -76,6 +77,7 @@ Here are all the potential projects for Fall 2022.
 - Answer basic questions for the members, take attendance, map names & usernames, etc.
 - Useful to know: Python, Database
 - Links:
+    - [Perspective](https://www.perspectiveapi.com/research/): online conversation moderation API and [their research blog](https://medium.com/jigsaw)
     - https://droplr.com/how-to/productivity-tools/top-5-discord-moderation-bots-to-keep-your-server-safe/
 
 ## Concept map generator
@@ -98,6 +100,7 @@ Here are all the potential projects for Fall 2022.
 - Useful to know: Python
 - Links:
     - https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
+    - defining personality representations for efficient AI prediction https://www.nature.com/articles/s41598-022-16108-3
 
 ## Music composer
 - Generate music using a neural network
