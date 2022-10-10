@@ -61,7 +61,6 @@ All AI Club projects in Fall 2022
         </a><br/>
         <small><b>makibrte(Mateja)</b></small>
       </td>
-      
-    </tr>
+      </tr>
   </tbody>
 </table>
