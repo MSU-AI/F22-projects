@@ -55,7 +55,7 @@ All AI Club projects in Fall 2022
 <table>
   <tbody>
     <tr>
-      </td>
+      
       <td align="center">
         <a href="https://github.com/makibrte">
         <img src="https://avatars.githubusercontent.com/u/113369108?v=4" width="100px;"/>
