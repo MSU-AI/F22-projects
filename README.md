@@ -52,3 +52,15 @@ All AI Club projects in Fall 2022
 ## 9. [Sign language translator](#)
 
 ## 10. [Board game bot](#)
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/makibrte">
+        <img src="https://avatars.githubusercontent.com/u/113369108?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>makibrte(Mateja)</b></small>
+      </td>
+      </tr>
+  </tbody>
+</table>
