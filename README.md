@@ -65,7 +65,7 @@ All AI Club projects in Fall 2022
         <a href="https://github.com/nicholasdly">
         <img src="https://avatars.githubusercontent.com/u/61239473?v=4" width="100px;"/>
         </a><br/>
-        <small><b>makibrte(Mateja)</b></small>
+        <small><b>nicholasdly</b></small>
       </td>
       </tr>
   </tbody>
