@@ -4,6 +4,7 @@ All AI Club projects in Fall 2022
 ## 0. Example
 
 This is a short but exciting description about the Example Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 <table>
   <tbody>
     <tr>
@@ -43,7 +44,9 @@ This is a short but exciting description about the Example Project. Lorem ipsum 
 
 ## 4. [Discord moderator](#)
 
-## 5. [Basic prediction models](#)
+## 5. [Basic prediction models](https://github.com/MSU-AI/Fetal-Sate-Predictor)
+
+A Fetal State Predictor that will predict fetal state whether it's normal suspect or pathological.
 
 ## 6. [Spotify personality predictor](#)
 
