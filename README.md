@@ -3,7 +3,7 @@ All AI Club projects in Fall 2022
 
 ## 0. Example
 
-Please write a short but exciting paragraph to describe your project. Update your project name into something meaningful. Link it to your project repository. Each team member should add themselves as contributor. See issue #4. The rest of the text are gibberish. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Please write a short but exciting paragraph to describe your project. Update your project name into something meaningful. Link it to your project repository. Each team member should add themselves as contributor. See issue [#4](https://github.com/MSU-AI/F22-projects/issues/4). The rest of the text are gibberish. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <table>
   <tbody>
