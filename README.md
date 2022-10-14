@@ -44,7 +44,7 @@ This is a short but exciting description about the Example Project. Lorem ipsum 
 ## 4. [Discord moderator](#)
 
 ## 5. [Basic prediction models](https://github.com/MSU-AI/Fetal-Sate-Predictor)
-### A Fetal State Predictor that will predict fetus state whether it's normal, suspect or pathological.
+### A Fetal State Predictor that will predict fetal state whether it's normal suspect or pathological.
 
 ## 6. [Spotify personality predictor](#)
 
