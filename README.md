@@ -54,7 +54,8 @@ A Fetal State Predictor that will predict fetal state whether it's normal suspec
 
 ## 8. [AI firewall](#)
 
-## 9. [Sign language translator](#)
+## 9. [Sign language translator](https://github.com/MSU-AI/SignLanguageTranslator)
+Given camera [ASL](https://en.wikipedia.org/wiki/American_Sign_Language) input, outputs English.
 
 ## 10. [Board game bot](#)
 <table>
