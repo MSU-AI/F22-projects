@@ -58,7 +58,7 @@ A Fetal State Predictor that will predict fetal state whether it's normal suspec
 Given camera [ASL](https://en.wikipedia.org/wiki/American_Sign_Language) input, outputs English.
 
 ## 10. [Milburn Pennybags-Monopoly AI](https://github.com/MSU-AI/milburn-monopoly-ai)
-AI for the board game Monopoly that will be trained by Reinforcement Learning. It's name is Milburn. After living a long and succesfull life it was time for Mr. Milburn Pennybags to come to terms that his life is almost over. Behind him he left the biggest real-estate empire known to mankind. But, he could not accept the fact that it all may disapear since he does not have a worthy successor. So he came up with an idea to hire data scientists from MSU to build him an AI that will be as good as him and if not better. His goal is to make this AI own the world! Will the team create a money making machine or a money burner, we shall find out...
+AI for the board game Monopoly that will be trained by Reinforcement Learning. It's name is Milburn. After living a long and succesfull life it was time for Mr. Milburn Pennybags to come to terms that his life is almost over. Behind him he left the biggest real-estate empire known to humankind. But, he could not accept the fact that it all may disapear since he does not have a worthy successor. So he came up with an idea to hire data scientists from MSU to build him an AI that will be as good as him and if not better. His goal is to make this AI own the world! Will the team create a money making machine or a money burner, we shall find out...
 <table>
   <tbody>
     <tr>
@@ -77,3 +77,4 @@ AI for the board game Monopoly that will be trained by Reinforcement Learning. I
       </tr>
   </tbody>
 </table>
+
