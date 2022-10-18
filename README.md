@@ -36,7 +36,7 @@ Please write a short but exciting paragraph to describe your project. Update you
   </tbody>
 </table>
 
-## 1. [Instagram filter](#)
+## 1. [Instagram filter](https://github.com/jisha9584/AI-Club-Insta-Filter.git)
 
 ## 2. [Intra-building navigator](#)
 
