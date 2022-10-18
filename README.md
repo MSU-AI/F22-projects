@@ -174,6 +174,12 @@ AI for the board game Monopoly that will be trained by Reinforcement Learning. I
         <img src="https://avatars.githubusercontent.com/u/61239473?v=4" width="100px;"/>
         </a><br/>
         <small><b>nicholasdly</b></small>
+         </td>
+      <td align="center">
+        <a href="https://github.com/ccicchella">
+        <img src="https://avatars.githubusercontent.com/u/107056988?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>ccicchella</b></small>
       </td>
       </tr>
   </tbody>
