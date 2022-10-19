@@ -92,26 +92,9 @@ Our goal is to build a "Google Maps"-style application that guides the user arou
 
 ## 3. [Concept map browser extension](#)
 - A browser extension which will take the selected text on a website as input and create a concept map out of it.
-- This project is aimed at providing an alternative way to represent information metioned text as a graph for easier
+- This project is aimed at providing an alternative way to represent information metioned in text as a graph for easier
 interpretation.
 
-
-<br>
-
-## Different aspects of the project
-1. **Text Summarization** 
-    - The selected text will be first summarized using the state of the art text summarization model. 
-    - Given a long text we will first summarize it to condense the information into reasonable sentences. 
-2. **Entity Extraction**
-    - Extracting entities from the text.
-3. **Relationship Classification/Extraction**
-    - Extracting relationship between entities given the context.
-4. **Browser Extension and Backend**
-    - Browser extension will allow for the user to select text from a website to turn into a concept map.
-    - The browser extension will then send that information to the backend python script.
-    - The python script will send back the desired data.
-5. **Frontend and Visualizations**
-    - Visualizing the created knowledge graph
 <table>
   <tbody>
     <tr>
