@@ -91,6 +91,58 @@ Our goal is to build a "Google Maps"-style application that guides the user arou
 </table>
 
 ## 3. [Concept map browser extension](#)
+- A browser extension which will take the selected text on a website as input and create a concept map out of it.
+- This project is aimed at providing an alternative way to represent information metioned in text as a graph for easier
+interpretation.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/kuldeep7688">
+        <img src="https://avatars.githubusercontent.com/u/10415481?v=4" width="100px;">
+        </a><br/>
+        <small><b>Kuldeep Singh</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MAlshaik">
+        <img src="https://avatars.githubusercontent.com/u/56054023?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Mohammad Alshaikhusain</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ReeveFernandes">
+        <img src="https://avatars.githubusercontent.com/u/92554845?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Reeve Fernandes</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/forwvss">
+        <img src="https://avatars.githubusercontent.com/u/97998845?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Mark Tungul</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gSingh-debug">
+        <img src="https://avatars.githubusercontent.com/u/108957502?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Gurpreet Singh</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yellowmellow22">
+        <img src="https://avatars.githubusercontent.com/u/112713212?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Michael Plante</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/arael34">
+        <img src="https://avatars.githubusercontent.com/u/94145174?v=4" width="100px;"/>
+        </a><br/>
+        <small><b>Jonas Groening</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 4. [Discord moderator](https://github.com/MSU-AI/DiscordModeratorBot)
 A Multi-feature Discord Bot with the main goals are being able to use Natural Language Processing to make conversing in Discord a safer and toxicity-free place, to actively check when questions related to the club are asked in chat, detecting these questions and answering them using a large dataset of information regarding the AI Club and finally a simple but efficient system of tracking member activity and displaying this data in a descriptive, easy-to-read and informative manner.
