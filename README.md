@@ -37,6 +37,20 @@ Please write a short but exciting paragraph to describe your project. Update you
 </table>
 
 ## 1. [Instagram filter](#)
+Our goal...
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jisha9584">
+        <img src="https://avatars.githubusercontent.com/u/82643095?v=4" width="100px;">
+        </a><br/>
+        <small><b>jisha9584</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2. [Intra-building navigator](https://github.com/MSU-AI/IntraBuildingNavigator)
 Our goal is to build a "Google Maps"-style application that guides the user around the inside of a building. Our current plan is to develop this project on a small scale for desktop, then eventually scale up to a mobile app. We will use AI image/video processing, device location services, and pathfinding algorithms to determine where the user is currently located and what actions they should take to get to their destination.
