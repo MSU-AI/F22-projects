@@ -49,12 +49,12 @@ All AI Club projects in Fall 2022
 </p>
 <h1> Project members: </h1>
 <a href="https://github.com/ZaneAridi1022">Zane Aridi</a>
-<a href="https://github.com/Sanya1001">filler</a>
-<a href="https://github.com/Sanya1001">filler</a>
-<a href="https://github.com/Sanya1001">filler</a>
-<a href="https://github.com/Sanya1001">filler</a>
-<a href="https://github.com/Sanya1001">filler</a>
-<a href="https://github.com/Sanya1001">filler</a>
+<a href="https://github.com/aaryan-walia">Aaryan Walia</a>
+<a href="https://github.com/bjyan04">Blenda</a>
+<a href="https://github.com/briankim0914">Brian Kim</a>
+<a href="https://github.com/KaijiaZhan">Joanna</a>
+<a href="https://github.com/mannaswal">Mann Aswal</a>
+<a href="https://github.com/Nilvek789">Kevin</a>
 <br>
 
 ## 7. [AI decryption](#)
