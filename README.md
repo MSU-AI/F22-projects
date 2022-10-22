@@ -55,6 +55,8 @@ All AI Club projects in Fall 2022
 <a href="https://github.com/Sanya1001">filler</a>
 <a href="https://github.com/Sanya1001">filler</a>
 <a href="https://github.com/Sanya1001">filler</a>
+<br>
+
 ## 7. [AI decryption](#)
 
 ## 8. [AI firewall](#)
