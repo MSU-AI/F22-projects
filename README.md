@@ -48,7 +48,7 @@ All AI Club projects in Fall 2022
   This project ultilizes data collected from our friends Spotify accounts. We use their listening history as well as their responses to a personality questionaire to create an accurate dataset.  With this dataset, we are training a model to identify a person's personality based on factors prevelent in their music taste.
 </p>
 <h1> Project members: </h1>
-<a href="https://github.com/Zane1022">Zane Aridi</a>
+<a href="https://github.com/ZaneAridi1022">Zane Aridi</a>
 <a href="https://github.com/Sanya1001">filler</a>
 <a href="https://github.com/Sanya1001">filler</a>
 <a href="https://github.com/Sanya1001">filler</a>
