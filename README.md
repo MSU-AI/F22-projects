@@ -198,7 +198,7 @@ A Multi-feature Discord Bot with the main goals are being able to use Natural La
 </table>
 
 ## 5. [Basic prediction models](https://github.com/MSU-AI/Fetal-Sate-Predictor)
-This project's aims is for predicting the state of fetus inside the mother's womb. Our plan is to create an web app that will allow doctors to understand whether the condition of baby inside is Normal(which is ok), Suspect(something should be taken care of) or Pathelogical(something serious). With the help of Neural Networks, Hyperparameter Optimization and Web Development we will assist doctors to make sure that baby inside the mother's womb is in sound condition!!! 
+This project's aim is for predicting the state of fetus inside the mother's womb. Our plan is to create an web app that will allow doctors to understand whether the condition of baby inside is Normal(which is ok), Suspect(something should be taken care of) or Pathelogical(something serious). With the help of Neural Networks, Hyperparameter Optimization and Web Development we will assist doctors to make sure that baby inside the mother's womb is in sound condition!!! 
 
 <table>
   <tbody>
