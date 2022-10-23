@@ -250,7 +250,6 @@ This project's aims is for predicting the state of fetus inside the mother's wom
 </table>
 
 
-A Fetal State Predictor that will predict fetal state whether it's normal suspect or pathological.
 
 ## 6. [Spotify personality predictor](#)
 
