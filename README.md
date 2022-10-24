@@ -246,7 +246,6 @@ A Fetal State Predictor that will predict fetal state whether it's normal suspec
         <small>Mann Aswal</small>
       </td>
       <td>
-        <a href="https://github.com/Nilvek789">Kevin</a>
         <a href="https://github.com/Nilvek789">
           <img src="https://avatars.githubusercontent.com/u/114879222?v=4" width="100px;"> 
           </a><br/>
