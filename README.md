@@ -210,25 +210,47 @@ A Fetal State Predictor that will predict fetal state whether it's normal suspec
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/ZaneAridi1022">Zane Aridi</a>
+        <a href="https://github.com/ZaneAridi1022">
+          <img src="https://avatars.githubusercontent.com/u/80779298?v=4" width="100px;"> 
+          </a><br/>
+        <small>Zane Aridi</small>
       </td>
       <td>
-        <a href="https://github.com/aaryan-walia">Aaryan Walia</a>
+        <a href="https://github.com/aaryan-walia">
+          <img src="https://avatars.githubusercontent.com/u/111919808?v=4" width="100px;"> 
+          </a><br/>
+        <small>Aaryan Walia</small>
       </td>
       <td>
-        <a href="https://github.com/bjyan04">Blenda</a>
+        <a href="https://github.com/bjyan04">
+          <img src="https://avatars.githubusercontent.com/u/109554116?v=4" width="100px;"> 
+          </a><br/>
+        <small>Blenda</small>
       </td>
       <td>
-        <a href="https://github.com/briankim0914">Brian Kim</a>
+        <a href="https://github.com/briankim0914">
+          <img src="https://avatars.githubusercontent.com/u/105545869?v=4" width="100px;"> 
+          </a><br/>
+        <small>Brian Kim</small>
       </td>
       <td>
-        <a href="https://github.com/KaijiaZhan">Joanna</a>
+        <a href="https://github.com/KaijiaZhan">
+          <img src="https://avatars.githubusercontent.com/u/97995975?v=4" width="100px;"> 
+          </a><br/>
+        <small>Joanna</small>
       </td>
       <td>
-        <a href="https://github.com/mannaswal">Mann Aswal</a>
+        <a href="https://github.com/mannaswal">
+          <img src="https://avatars.githubusercontent.com/u/85875015?v=4" width="100px;"> 
+          </a><br/>
+        <small>Mann Aswal</small>
       </td>
       <td>
         <a href="https://github.com/Nilvek789">Kevin</a>
+        <a href="https://github.com/Nilvek789">
+          <img src="https://avatars.githubusercontent.com/u/114879222?v=4" width="100px;"> 
+          </a><br/>
+        <small>Kevin</small>
       </td>
     </tr>
   </tbody>
