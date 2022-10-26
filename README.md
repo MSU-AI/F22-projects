@@ -253,7 +253,7 @@ This project's aim is for predicting the state of fetus inside the mother's womb
 
 ## 6. [Spotify personality predictor](#)
 
-## 7. [AI decryption](https://github.com/MSU-AI/NikaProject)
+## 7. [AI Encryption](https://github.com/MSU-AI/NikaProject)
 
 <table>
   <tbody>
@@ -272,7 +272,7 @@ This project's aim is for predicting the state of fetus inside the mother's womb
       </td>
       <td align="center">
         <a href="https://github.com/anvita-g">
-        <img src="https://avatars.githubusercontent.com/u/75912590?v=4" width="100px;">
+        <img src="https://avatars.githubusercontent.com/u/75912590?v=4" width="150px;">
         </a><br/>
         <small><b>anvita-g</b></small>
       </td>
