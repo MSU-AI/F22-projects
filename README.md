@@ -253,7 +253,56 @@ This project's aim is for predicting the state of fetus inside the mother's womb
 
 ## 6. [Spotify personality predictor](#)
 
-## 7. [AI decryption](#)
+## 7. [AI Encryption](https://github.com/MSU-AI/NikaProject)
+The aim of this project is to enhance security when modifying encrypted data. Using homomorphic encryption and neural networks, our goal is to make an app that takes in data from the user, encrypts it, and then modifies the encrypted data without decryption. The user then can access the changed data.
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/DoctorLouWho">
+        <img src="https://avatars.githubusercontent.com/u/113136906?v=4" width="100px;">
+        </a><br/>
+        <small><b>DoctorLouWho</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ajaykumar2k25">
+        <img src="https://avatars.githubusercontent.com/u/96953471?v=4" width="100px;">
+        </a><br/>
+        <small><b>ajaykumar2k25</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anvita-g">
+        <img src="https://avatars.githubusercontent.com/u/75912590?v=4" width="100px;">
+        </a><br/>
+        <small><b>anvita-g</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/crandalllauryn">
+        <img src="https://avatars.githubusercontent.com/u/65569546?v=4" width="100px;">
+        </a><br/>
+        <small><b>crandalllauryn</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/andrewchiu1203">
+        <img src="https://avatars.githubusercontent.com/u/81220384?v=4" width="100px;">
+        </a><br/>
+        <small><b>andrewchiu1203</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/haniyyasurayya">
+        <img src="https://avatars.githubusercontent.com/u/114824386?v=4" width="100px;">
+        </a><br/>
+        <small><b>haniyyasurayya</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Scarcedust">
+        <img src="https://avatars.githubusercontent.com/u/113730916?v=4" width="100px;">
+        </a><br/>
+        <small><b>Scarcedust</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 8. [AI firewall](#)
 
