@@ -278,7 +278,7 @@ This project's aim is for predicting the state of fetus inside the mother's womb
       </td>
       <td align="center">
         <a href="https://github.com/crandalllauryn">
-        <img src="https://avatars.githubusercontent.com/u/65569546?v=4" width="200px;">
+        <img src="https://avatars.githubusercontent.com/u/65569546?v=4" width="100px;">
         </a><br/>
         <small><b>crandalllauryn</b></small>
       </td>
