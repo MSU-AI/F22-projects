@@ -307,7 +307,55 @@ The aim of this project is to enhance security when modifying encrypted data. Us
 ## 8. [AI firewall](#)
 
 ## 9. [Sign language translator](https://github.com/MSU-AI/SignLanguageTranslator)
-Given camera [ASL](https://en.wikipedia.org/wiki/American_Sign_Language) input, outputs English.
+We aim to create a web application that translates [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) into English. We will use hand/finger tracking and possibly pose detection to recognize individual signs, which is then translated into English by natural language processing.
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/spesthecat">
+        <img src="https://avatars.githubusercontent.com/u/44417854?v=4" width="100px;">
+        </a><br/>
+        <small><b>spesthecat</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/adityapandey1221">
+        <img src="https://avatars.githubusercontent.com/u/38134535?v=4" width="100px;">
+        </a><br/>
+        <small><b>adityapandey1221</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/grosskir">
+        <img src="https://avatars.githubusercontent.com/u/63125421?v=4" width="100px;">
+        </a><br/>
+        <small><b>grosskir</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/michaelborek">
+        <img src="https://avatars.githubusercontent.com/u/67952069?v=4" width="100px;">
+        </a><br/>
+        <small><b>michaelborek</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Johnx69">
+        <img src="https://avatars.githubusercontent.com/u/93436870?v=4" width="100px;">
+        </a><br/>
+        <small><b>Dao Hoang Anh</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/langerno">
+        <img src="https://avatars.githubusercontent.com/u/112980271?v=4" width="100px;">
+        </a><br/>
+        <small><b>langerno</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/npaigalikar">
+        <img src="https://avatars.githubusercontent.com/u/114792236?v=4" width="100px;">
+        </a><br/>
+        <small><b>npaigalikar</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 10. [Milburn Pennybags-Monopoly AI](https://github.com/MSU-AI/milburn-monopoly-ai)
 AI for the board game Monopoly that will be trained by Reinforcement Learning. It's name is Milburn. After living a long and succesfull life it was time for Mr. Milburn Pennybags to come to terms that his life is almost over. Behind him he left the biggest real-estate empire known to humankind. But, he could not accept the fact that it all may disapear since he does not have a worthy successor. So he came up with an idea to hire data scientists from MSU to build him an AI that will be as good as him and if not better. His goal is to make this AI own the world! Will the team create a money making machine or a money burner, we shall find out...
