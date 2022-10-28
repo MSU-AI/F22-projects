@@ -307,7 +307,7 @@ The aim of this project is to enhance security when modifying encrypted data. Us
 ## 8. [AI firewall](#)
 
 ## 9. [Sign language translator](https://github.com/MSU-AI/SignLanguageTranslator)
-Given camera [ASL](https://en.wikipedia.org/wiki/American_Sign_Language) input, outputs English.
+We aim to create a web application that translates [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) into English. We will use hand/finger tracking and possibly pose detection to recognize individual signs, which is then translated into English by natural language processing.
 <table>
   <tbody>
     <tr>
