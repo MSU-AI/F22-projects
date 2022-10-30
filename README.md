@@ -304,7 +304,46 @@ The aim of this project is to enhance security when modifying encrypted data. Us
   </tbody>
 </table>
 
-## 8. [AI firewall](#)
+## 8. [AI firewall](https://github.com/MSU-AI/AI-Firewall)
+The purpose of our project is to develop a Web Application Security Service for the AI Club and any other person that wishes to use. 
+This will be either in a form of IPS/IDS or an Intelligent WAF (Web App Firewall), Combining Computer Security and Artificial Intelligence into this cutting-edge technology.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Y0uk1tsun3">
+        <img src="https://avatars.githubusercontent.com/u/95195316" width="100px;">
+        </a><br/>
+        <small><b>Y0uk1tsun3</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/satyabyreddy">
+        <img src="https://avatars.githubusercontent.com/u/102766717" width="100px;">
+        </a><br/>
+        <small><b>satyabyreddy</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/pprahlada">
+        <img src="https://avatars.githubusercontent.com/u/93998803" width="100px;">
+        </a><br/>
+        <small><b>pprahlada</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jyax">
+        <img src="https://avatars.githubusercontent.com/u/86649500" width="100px;">
+        </a><br/>
+        <small><b>jyax</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/features/copilot">
+        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
+        </a><br/>
+        <small><b>GitHub username</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 9. [Sign language translator](https://github.com/MSU-AI/SignLanguageTranslator)
 We aim to create a web application that translates [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) into English. We will use hand/finger tracking and possibly pose detection to recognize individual signs, which is then translated into English by natural language processing.
