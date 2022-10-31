@@ -212,17 +212,255 @@ A Multi-feature Discord Bot with the main goals are being able to use Natural La
 </table>
 
 ## 5. [Basic prediction models](https://github.com/MSU-AI/Fetal-Sate-Predictor)
+This project's aim is for predicting the state of fetus inside the mother's womb. Our plan is to create an web app that will allow doctors to understand whether the condition of baby inside is Normal(which is ok), Suspect(something should be taken care of) or Pathelogical(something serious). With the help of Neural Networks, Hyperparameter Optimization and Web Development we will assist doctors to make sure that baby inside the mother's womb is in sound condition!!! 
 
-A Fetal State Predictor that will predict fetal state whether it's normal suspect or pathological.
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Techdevweb">
+        <img src="https://avatars.githubusercontent.com/u/66744996?v=4" width="100px;">
+        </a><br/>
+        <small><b>Techdevweb</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/katietut">
+        <img src="https://avatars.githubusercontent.com/u/115242194?v=4" width="100px;">
+        </a><br/>
+        <small><b>katietut</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MarcusHu529">
+        <img src="https://avatars.githubusercontent.com/u/114897364?v=4" width="100px;">
+        </a><br/>
+        <small><b>MarcusHu529</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/juancsabogal">
+        <img src="https://avatars.githubusercontent.com/u/114792472?v=4" width="100px;">
+        </a><br/>
+        <small><b>juancsabogal</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sthuy9804">
+        <img src="https://avatars.githubusercontent.com/u/114836703?v=4" width="100px;">
+        </a><br/>
+        <small><b>sthuy9804</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/KoyaS">
+        <img src="https://avatars.githubusercontent.com/u/39803522?v=4" width="100px;">
+        </a><br/>
+        <small><b>KoyaS</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Goob16">
+        <img src="https://avatars.githubusercontent.com/u/114874289?v=4" width="100px;">
+        </a><br/>
+        <small><b>Goob16</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## 6. [Spotify personality predictor](#)
+<p>
+  This project ultilizes data collected from our friends Spotify accounts. We use their listening history as well as their responses to a personality questionaire to create an accurate dataset.  With this dataset, we are training a model to identify a person's personality based on factors prevelent in their music taste.
+</p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ZaneAridi1022">
+          <img src="https://avatars.githubusercontent.com/u/80779298?v=4" width="100px;"> 
+          </a><br/>
+        <small>Zane Aridi</small>
+      </td>
+      <td>
+        <a href="https://github.com/aaryan-walia">
+          <img src="https://avatars.githubusercontent.com/u/111919808?v=4" width="100px;"> 
+          </a><br/>
+        <small>Aaryan Walia</small>
+      </td>
+      <td>
+        <a href="https://github.com/bjyan04">
+          <img src="https://avatars.githubusercontent.com/u/109554116?v=4" width="100px;"> 
+          </a><br/>
+        <small>Blenda</small>
+      </td>
+      <td>
+        <a href="https://github.com/briankim0914">
+          <img src="https://avatars.githubusercontent.com/u/105545869?v=4" width="100px;"> 
+          </a><br/>
+        <small>Brian Kim</small>
+      </td>
+      <td>
+        <a href="https://github.com/KaijiaZhan">
+          <img src="https://avatars.githubusercontent.com/u/97995975?v=4" width="100px;"> 
+          </a><br/>
+        <small>Joanna</small>
+      </td>
+      <td>
+        <a href="https://github.com/mannaswal">
+          <img src="https://avatars.githubusercontent.com/u/85875015?v=4" width="100px;"> 
+          </a><br/>
+        <small>Mann Aswal</small>
+      </td>
+      <td>
+        <a href="https://github.com/Nilvek789">
+          <img src="https://avatars.githubusercontent.com/u/114879222?v=4" width="100px;"> 
+          </a><br/>
+        <small>Kevin</small>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
-## 7. [AI decryption](#)
+## 7. [AI Encryption](https://github.com/MSU-AI/NikaProject)
+The aim of this project is to enhance security when modifying encrypted data. Using homomorphic encryption and neural networks, our goal is to make an app that takes in data from the user, encrypts it, and then modifies the encrypted data without decryption. The user then can access the changed data.
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/DoctorLouWho">
+        <img src="https://avatars.githubusercontent.com/u/113136906?v=4" width="100px;">
+        </a><br/>
+        <small><b>DoctorLouWho</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ajaykumar2k25">
+        <img src="https://avatars.githubusercontent.com/u/96953471?v=4" width="100px;">
+        </a><br/>
+        <small><b>ajaykumar2k25</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anvita-g">
+        <img src="https://avatars.githubusercontent.com/u/75912590?v=4" width="100px;">
+        </a><br/>
+        <small><b>anvita-g</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/crandalllauryn">
+        <img src="https://avatars.githubusercontent.com/u/65569546?v=4" width="100px;">
+        </a><br/>
+        <small><b>crandalllauryn</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/andrewchiu1203">
+        <img src="https://avatars.githubusercontent.com/u/81220384?v=4" width="100px;">
+        </a><br/>
+        <small><b>andrewchiu1203</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/haniyyasurayya">
+        <img src="https://avatars.githubusercontent.com/u/114824386?v=4" width="100px;">
+        </a><br/>
+        <small><b>haniyyasurayya</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Scarcedust">
+        <img src="https://avatars.githubusercontent.com/u/113730916?v=4" width="100px;">
+        </a><br/>
+        <small><b>Scarcedust</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## 8. [AI firewall](#)
+## 8. [AI firewall](https://github.com/MSU-AI/AI-Firewall)
+The purpose of our project is to develop a Web Application Security Service for the AI Club and any other person that wishes to use. 
+This will be either in a form of IPS/IDS or an Intelligent WAF (Web App Firewall), Combining Computer Security and Artificial Intelligence into this cutting-edge technology.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Y0uk1tsun3">
+        <img src="https://avatars.githubusercontent.com/u/95195316" width="100px;">
+        </a><br/>
+        <small><b>Y0uk1tsun3</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/satyabyreddy">
+        <img src="https://avatars.githubusercontent.com/u/102766717" width="100px;">
+        </a><br/>
+        <small><b>satyabyreddy</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/pprahlada">
+        <img src="https://avatars.githubusercontent.com/u/93998803" width="100px;">
+        </a><br/>
+        <small><b>pprahlada</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jyax">
+        <img src="https://avatars.githubusercontent.com/u/86649500" width="100px;">
+        </a><br/>
+        <small><b>jyax</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/features/copilot">
+        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
+        </a><br/>
+        <small><b>GitHub username</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 9. [Sign language translator](https://github.com/MSU-AI/SignLanguageTranslator)
-Given camera [ASL](https://en.wikipedia.org/wiki/American_Sign_Language) input, outputs English.
+We aim to create a web application that translates [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) into English. We will use hand/finger tracking and possibly pose detection to recognize individual signs, which is then translated into English by natural language processing.
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/spesthecat">
+        <img src="https://avatars.githubusercontent.com/u/44417854?v=4" width="100px;">
+        </a><br/>
+        <small><b>spesthecat</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/adityapandey1221">
+        <img src="https://avatars.githubusercontent.com/u/38134535?v=4" width="100px;">
+        </a><br/>
+        <small><b>adityapandey1221</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/grosskir">
+        <img src="https://avatars.githubusercontent.com/u/63125421?v=4" width="100px;">
+        </a><br/>
+        <small><b>grosskir</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/michaelborek">
+        <img src="https://avatars.githubusercontent.com/u/67952069?v=4" width="100px;">
+        </a><br/>
+        <small><b>michaelborek</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Johnx69">
+        <img src="https://avatars.githubusercontent.com/u/93436870?v=4" width="100px;">
+        </a><br/>
+        <small><b>Dao Hoang Anh</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/langerno">
+        <img src="https://avatars.githubusercontent.com/u/112980271?v=4" width="100px;">
+        </a><br/>
+        <small><b>langerno</b></small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/npaigalikar">
+        <img src="https://avatars.githubusercontent.com/u/114792236?v=4" width="100px;">
+        </a><br/>
+        <small><b>npaigalikar</b></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 10. [Milburn Pennybags-Monopoly AI](https://github.com/MSU-AI/milburn-monopoly-ai)
 AI for the board game Monopoly that will be trained by Reinforcement Learning. It's name is Milburn. After living a long and succesfull life it was time for Mr. Milburn Pennybags to come to terms that his life is almost over. Behind him he left the biggest real-estate empire known to humankind. But, he could not accept the fact that it all may disapear since he does not have a worthy successor. So he came up with an idea to hire data scientists from MSU to build him an AI that will be as good as him and if not better. His goal is to make this AI own the world! Will the team create a money making machine or a money burner, we shall find out...
