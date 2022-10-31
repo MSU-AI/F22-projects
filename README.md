@@ -37,7 +37,7 @@ Please write a short but exciting paragraph to describe your project. Update you
 </table>
 
 ## 1. [Instagram filter](#)
-Our goal...
+Our goal is to create an Instagram filter using Spark AR and Java Script. Our current plan is to develop this project on Spark AR and later we can create a filter using Java Script. Additionally we will publish that filter on Instagram. 
 
 <table>
   <tbody>
