@@ -252,6 +252,58 @@ This project's aim is for predicting the state of fetus inside the mother's womb
 
 
 ## 6. [Spotify personality predictor](#)
+<p>
+  This project ultilizes data collected from our friends Spotify accounts. We use their listening history as well as their responses to a personality questionaire to create an accurate dataset.  With this dataset, we are training a model to identify a person's personality based on factors prevelent in their music taste.
+</p>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ZaneAridi1022">
+          <img src="https://avatars.githubusercontent.com/u/80779298?v=4" width="100px;"> 
+          </a><br/>
+        <small>Zane Aridi</small>
+      </td>
+      <td>
+        <a href="https://github.com/aaryan-walia">
+          <img src="https://avatars.githubusercontent.com/u/111919808?v=4" width="100px;"> 
+          </a><br/>
+        <small>Aaryan Walia</small>
+      </td>
+      <td>
+        <a href="https://github.com/bjyan04">
+          <img src="https://avatars.githubusercontent.com/u/109554116?v=4" width="100px;"> 
+          </a><br/>
+        <small>Blenda</small>
+      </td>
+      <td>
+        <a href="https://github.com/briankim0914">
+          <img src="https://avatars.githubusercontent.com/u/105545869?v=4" width="100px;"> 
+          </a><br/>
+        <small>Brian Kim</small>
+      </td>
+      <td>
+        <a href="https://github.com/KaijiaZhan">
+          <img src="https://avatars.githubusercontent.com/u/97995975?v=4" width="100px;"> 
+          </a><br/>
+        <small>Joanna</small>
+      </td>
+      <td>
+        <a href="https://github.com/mannaswal">
+          <img src="https://avatars.githubusercontent.com/u/85875015?v=4" width="100px;"> 
+          </a><br/>
+        <small>Mann Aswal</small>
+      </td>
+      <td>
+        <a href="https://github.com/Nilvek789">
+          <img src="https://avatars.githubusercontent.com/u/114879222?v=4" width="100px;"> 
+          </a><br/>
+        <small>Kevin</small>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 ## 7. [AI Encryption](https://github.com/MSU-AI/NikaProject)
 The aim of this project is to enhance security when modifying encrypted data. Using homomorphic encryption and neural networks, our goal is to make an app that takes in data from the user, encrypts it, and then modifies the encrypted data without decryption. The user then can access the changed data.
