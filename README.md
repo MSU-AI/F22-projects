@@ -1,41 +1,6 @@
 # F22-projects
 All AI Club projects in Fall 2022
 
-## 0. Example
-
-Please write a short but exciting paragraph to describe your project. Update your project name into something meaningful. Link it to your project repository. Each team member should add themselves as contributor. See issue [#4](https://github.com/MSU-AI/F22-projects/issues/4). The rest of the text are gibberish. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/features/copilot">
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="100px;">
-        </a><br/>
-        <small><b>GitHub username</b></small>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Owen-Cochell">
-        <img src="https://avatars.githubusercontent.com/u/28907989?v=4" width="100px;">
-        </a><br/>
-        <small><b>Owen-Cochell</b></small>
-      </td>
-      <td align="center">
-        <a href="https://github.com/AlexanderGrunewald">
-        <img src="https://avatars.githubusercontent.com/u/97201153?v=4" width="100px;"/>
-        </a><br/>
-        <small><b>AlexanderGrunewald</b></small>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Sanya1001">
-        <img src="https://avatars.githubusercontent.com/u/85473792?v=4" width="100px;"/>
-        </a><br/>
-        <small><b>Sanya1001</b></small>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## 1. [Instagram filter](#)
 Our goal is to create an Instagram filter using Spark AR and Java Script. Our current plan is to develop this project on Spark AR and later we can create a filter using Java Script. Additionally we will publish that filter on Instagram. 
 
@@ -262,8 +227,6 @@ This project's aim is for predicting the state of fetus inside the mother's womb
     </tr>
   </tbody>
 </table>
-
-
 
 ## 6. [Spotify personality predictor](#)
 <p>
